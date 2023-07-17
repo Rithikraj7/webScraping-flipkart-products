@@ -18,7 +18,7 @@ This Python script scrapes product information from the Flipkart website and app
 
 1. Update the `url` variable in the code with the URL of the Flipkart product page you want to scrape.
 2. Make sure you have an existing Excel file (`products.xlsx`) in the same directory as the code. The Excel file should have a sheet named "Sheet" or you can update the sheet name in the code if it differs.
-3. Run the script using the following command: `python maim.py`
+3. Run the script using the following command: `python main.py`
 5. The script will scrape the product title, price, and rating from the Flipkart page and append the data as a row to the Excel sheet.
 6. The scraped data will be saved in the Excel file.
 
